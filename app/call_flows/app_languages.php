@@ -120,6 +120,26 @@ $text['label-alternate_destination']['sv-se'] = "Alternativ Destination";
 $text['label-alternate_destination']['uk'] = "";
 $text['label-alternate_destination']['de-at'] = "Alternatives Ziel";
 
+$text['label-sound']['en-us'] = "Sound";
+$text['label-sound']['es-cl'] = "Sonar";
+$text['label-sound']['pt-pt'] = "Som";
+$text['label-sound']['fr-fr'] = "Sonner";
+$text['label-sound']['pt-br'] = "Som";
+$text['label-sound']['pl'] = "Dźwięk";
+$text['label-sound']['sv-se'] = "Ljud";
+$text['label-sound']['uk'] = "звук";
+$text['label-sound']['de-at'] = "Klingen";
+
+$text['label-alternate_sound']['en-us'] = "Alternate Sound";
+$text['label-alternate_sound']['es-cl'] = "sonido alternativo";
+$text['label-alternate_sound']['pt-pt'] = "som alternativo";
+$text['label-alternate_sound']['fr-fr'] = "son suppléant";
+$text['label-alternate_sound']['pt-br'] = "som alternativo";
+$text['label-alternate_sound']['pl'] = "Alternatywny dźwięk";
+$text['label-alternate_sound']['sv-se'] = "alternativt ljud";
+$text['label-alternate_sound']['uk'] = "альтернативний звук";
+$text['label-alternate_sound']['de-at'] = "wechseln Klingen";
+
 $text['header-call_flows']['en-us'] = "Call Flows";
 $text['header-call_flows']['es-cl'] = "flujo de Llamada";
 $text['header-call_flows']['pt-pt'] = "Fluxo de Chamadas";
@@ -259,5 +279,55 @@ $text['description-alternate_destination']['pl'] = "Wybierz alternatywną destyn
 $text['description-alternate_destination']['sv-se'] = "Välj den alternativa destinationen.";
 $text['description-alternate_destination']['uk'] = "";
 $text['description-alternate_destination']['de-at'] = "Wählen Sie ein alternatives Ziel.";
+
+$text['description-sound']['en-us'] = "Select the sound to play when the status is set to the destinations.";
+$text['description-sound']['es-cl'] = "Seleccione el sonido a reproducir cuando el estado se establece en el destino.";
+$text['description-sound']['pt-pt'] = "Selecione o som para tocar quando o status é definido como o destino.";
+$text['description-sound']['fr-fr'] = "Sélectionnez le son à jouer lorsque l'état est réglé sur la destination.";
+$text['description-sound']['pt-br'] = "Selecione o som para tocar quando o status é definido como o destino.";
+$text['description-sound']['pl'] = "Wybierz dźwięk do odtworzenia, gdy status jest ustawiony do miejsca przeznaczenia.";
+$text['description-sound']['sv-se'] = "Välj ljud att spela när status är inställd på destinationen.";
+$text['description-sound']['uk'] = "Select the sound to play when the status is set to the destination.";
+$text['description-sound']['de-at'] = "Wählen Sie den Ton zu spielen, wenn der Status auf das Ziel festgelegt ist.";
+
+$text['description-alternate_sound']['en-us'] = "Select the sound to play when status is set to the alternate destination.";
+$text['description-alternate_sound']['es-cl'] = "Seleccione el sonido a reproducir cuando el estado se establece en el destino alternativo.";
+$text['description-alternate_sound']['pt-pt'] = "Selecione o som para tocar quando o status é definido como o destino alternativo.";
+$text['description-alternate_sound']['fr-fr'] = "Sélectionnez le son à jouer lorsque l'état est réglé sur la destination alternative.";
+$text['description-alternate_sound']['pt-br'] = "Selecione o som para tocar quando o status é definido como o destino alternativo.";
+$text['description-alternate_sound']['pl'] = "Wybierz dźwięk do odtworzenia, gdy status jest ustawiony na alternatywnego przeznaczenia.";
+$text['description-alternate_sound']['sv-se'] = "Välj ljud att spela när status är inställd på den alternativa destinationen.";
+$text['description-alternate_sound']['uk'] = "Select the sound to play when status is set to the alternate destination.";
+$text['description-alternate_sound']['de-at'] = "Wählen Sie den Ton zu spielen, wenn der Status auf den alternativen Ziel gesetzt.";
+
+$text['recordings']['en-us'] = "Recordings";
+$text['recordings']['es-cl'] = "grabaciones";
+$text['recordings']['pt-pt'] = "gravações";
+$text['recordings']['fr-fr'] = "Recordings";
+$text['recordings']['pt-br'] = "gravações";
+$text['recordings']['pl'] = "nagrania";
+$text['recordings']['sv-se'] = "inspelningar";
+$text['recordings']['uk'] = "Recordings";
+$text['recordings']['de-at'] = "Aufnahmen";
+
+$text['miscellaneous']['en-us'] = "Miscellaneous";
+$text['miscellaneous']['es-cl'] = "Diverso";
+$text['miscellaneous']['pt-pt'] = "Variado";
+$text['miscellaneous']['fr-fr'] = "Divers";
+$text['miscellaneous']['pt-br'] = "Variado";
+$text['miscellaneous']['pl'] = "Różne";
+$text['miscellaneous']['sv-se'] = "Diverse";
+$text['miscellaneous']['uk'] = "Miscellaneous";
+$text['miscellaneous']['de-at'] = "Sonstiges";
+
+$text['sounds']['en-us'] = "Sounds";
+$text['sounds']['es-cl'] = "Sonidos";
+$text['sounds']['pt-pt'] = "Sons";
+$text['sounds']['fr-fr'] = "des sons";
+$text['sounds']['pt-br'] = "Sons";
+$text['sounds']['pl'] = "Dźwięki";
+$text['sounds']['sv-se'] = "Ljud";
+$text['sounds']['uk'] = "Sounds";
+$text['sounds']['de-at'] = "Geräusche";
 
 ?>
